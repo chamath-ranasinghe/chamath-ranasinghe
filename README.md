@@ -32,9 +32,5 @@ Here are some ideas to get you started:
 </p>
 -->
 
-
-
-<!--
-[![Chamath's GitHub stats](https://my-github-stats-jusfap5ac-chamath-ranasinghes-projects.vercel.app/api?username=chamath-ranasinghe)](https://github.com/chamath-ranasinghe/my-github-stats)
--->
+[![Chamath's GitHub stats](https://my-github-stats-nu.vercel.app/api?username=chamath-ranasinghe)](https://github.com/chamath-ranasinghe/my-github-stats)
 
