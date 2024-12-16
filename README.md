@@ -14,5 +14,9 @@ Here are some ideas to get you started:
       
 - 🌱 I’m currently learning Full Stack Development, Data Science and Engineering
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play guitar and sing out of the blue and watch random movies that I come across. 
+- ⚡ Fun fact: I play guitar and sing out of the blue and watch random movies that I come across.
+
+
+
+[![Chamath's GitHub stats](my-github-stats-jusfap5ac-chamath-ranasinghes-projects.vercel.app/api?username=chamath-ranasinghe)]
 
