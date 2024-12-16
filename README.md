@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 
 
-[![Chamath's GitHub stats](my-github-stats-jusfap5ac-chamath-ranasinghes-projects.vercel.app/api?username=chamath-ranasinghe)]
+[![Chamath's GitHub stats](https://my-github-stats-jusfap5ac-chamath-ranasinghes-projects.vercel.app/api?username=anuraghazra)](https://github.com/chamath-ranasinghe/my-github-stats)
 
