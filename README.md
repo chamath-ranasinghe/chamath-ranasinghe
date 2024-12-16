@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Full Stack Development, Data Science and Engineering
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play guitar and sing out of the blue and watch random movies that I come across.
-- 
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
