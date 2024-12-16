@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I play guitar and sing out of the blue and watch random movies that I come across.
 
 
-
-[![Chamath's GitHub stats](https://my-github-stats-jusfap5ac-chamath-ranasinghes-projects.vercel.app/api?username=chamath-ranasinghe)]
+<!--
+[![Chamath's GitHub stats](https://my-github-stats-jusfap5ac-chamath-ranasinghes-projects.vercel.app/api?username=chamath-ranasinghe)](https://github.com/chamath-ranasinghe/my-github-stats)
+-->
 
