@@ -19,12 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I play guitar and sing out of the blue and watch random movies that I come across.
 
 
-<!--
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
         <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-        <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/" alt="html5" width="40" height="40"/> </a> 
+        <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="40" height="40"/> </a> 
         <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
         <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
         <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -32,8 +30,6 @@ Here are some ideas to get you started:
         <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> 
         <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
-
--->
 
 
 
