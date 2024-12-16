@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![MasterHead](https://github.com/chamath-ranasinghe/chamath-ranasinghe/blob/main/header.png)](https://github.com/chamath-ranasinghe/)
+
 <!--
 **chamath-ranasinghe/chamath-ranasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
