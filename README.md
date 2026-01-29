@@ -12,9 +12,11 @@ Here are some ideas to get you started:
         React, Angular: Front End
         Flask, FastAPI, NodeJS (Express), Springboot: Backend
         MySQL, MongoDB: Database
-        Machine Learning, Neural Networks
-      
-- 🌱 I’m currently learning Full Stack Development, Data Science and Engineering
+     Also -
+        NLP
+        LLMs: Langchain, Langgraph
+        Computer Vision: OpenCV, PyTorch
+        and other Machine Learning, Neural Networks project
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play guitar and sing out of the blue and watch random movies that I come across.
 
